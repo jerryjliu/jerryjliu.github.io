@@ -6,7 +6,7 @@ I'm currently a Research Scientist at Uber ATG, working on advancing state-of-th
 
 Before this I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
 
-I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games. 
+I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games.  
 
 ## Publications / Projects
 * [**MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**](https://arxiv.org/abs/2008.09180). Sourav Biswas, *Jerry Liu*, Kelvin Wong, Shenlong Wang, Raquel Urtasun. NeurIPS 2020. 
