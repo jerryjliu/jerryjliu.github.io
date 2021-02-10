@@ -2,7 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm currently a Research Scientist at Uber ATG, working on advancing state-of-the-art for learning-based compression as well as joint prediction/planning. I'm broadly interested in generative models, IL/RL, as well as practical applications derived from the latest research. I also follow the startup community and am interested in understanding products and emerging growth opportunities in b2b, MLOps, and hard-tech robotics.  
+
+Before this I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
+
+I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games. 
+
+## Publications / Projects
+* [**MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**](https://arxiv.org/abs/2008.09180). Sourav Biswas, *Jerry Liu*, Kelvin Wong, Shenlong Wang, Raquel Urtasun. NeurIPS 2020. 
+* [**Conditional Entropy Coding for Efficient Video Compression**](https://arxiv.org/abs/2008.09180). *Jerry Liu*, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun. ECCV 2020. 
+* [**OctSqueeze: Octree-structured Entropy Model for LiDAR Compression**](https://arxiv.org/abs/2005.07178). Lila Huang, Shenlong Wang, Kelvin Wong, *Jerry Liu*, Raquel Urtasun. CVPR 2020, Oral. 
+* [**DSIC: Deep Stereo Image Compression**](https://arxiv.org/abs/1908.03631). *Jerry Liu*, Shenlong Wang, Raquel Urtasun. ICCV 2019, Oral. 
+* [**Interactive 3D Modeling with a Generative Adversarial Network**](https://ieeexplore.ieee.org/abstract/document/8374565). *Jerry Liu*, Fisher Yu, Thomas Funkhouser. 3DV 2017. 
+
+
+### Project Samples
+* [Star Wars Boids](https://jerryjliu.github.io/star_wars_boids/). Class project with [Kevin Wang](https://www.linkedin.com/in/suyang-kevin-wang-62459990/), extend Boid behavior to an adversarial setting and made everything Star Wars. 
+* [Force Split PR on Microsoft LightGBM](https://github.com/Microsoft/LightGBM/pull/1310). Added ability to force decision tree splits.
+* A bunch of hackathon projects back in the day. 
+
+
+## Resume
+
+You can access my resume [here](/assets/other/jerry_resume.pdf). My LinkedIn, Twitter, Github can be accessed from the left. 
+My Google Scholar is [here](https://scholar.google.com/citations?user=8JjemawAAAAJ&hl=en). I'm not currently active on Quora but you can read some of my older answers [here](https://www.quora.com/profile/Jerry-Liu-10).
+
+Also follow me on Clubhouse (**@jerryl**)! 
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +147,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
