@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I'm currently a Research Scientist at Uber ATG, working on advancing state-of-the-art for learning-based compression as well as joint prediction/planning. I'm broadly interested in generative models, IL/RL, as well as practical applications derived from the latest research. I also follow the startup community and am interested in understanding products and emerging growth opportunities in b2b, MLOps, and hard-tech robotics.  
+I recently joined Robust Intelligence as an ML Eng Manager! Working with brilliant researchers/engineers to help secure AI as its usage explodes around the world. Shoot me an email if you're interseted! 
 
-Before this I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
+Previously, I was a Research Scientist at Uber ATG, working on advancing state-of-the-art for learning-based compression as well as joint prediction/planning. I'm broadly interested in generative models, IL/RL, as well as practical applications derived from the latest research. Before that I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
 
-I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games.  
+I also follow the startup community and am interested in understanding products and emerging growth opportunities in b2b, MLOps, and hard-tech robotics. I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games.  
 
 ## Publications / Projects
 * [**MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**](https://arxiv.org/abs/2008.09180). Sourav Biswas, *Jerry Liu*, Kelvin Wong, Shenlong Wang, Raquel Urtasun. NeurIPS 2020. 
