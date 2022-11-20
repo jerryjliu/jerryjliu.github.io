@@ -18,6 +18,7 @@ I enjoy reading ML papers, reading non-ML books, eating spicy food, playing tenn
 * [**DSIC: Deep Stereo Image Compression**](https://arxiv.org/abs/1908.03631). *Jerry Liu*, Shenlong Wang, Raquel Urtasun. ICCV 2019, Oral. 
 * [**Interactive 3D Modeling with a Generative Adversarial Network**](https://ieeexplore.ieee.org/abstract/document/8374565). *Jerry Liu*, Fisher Yu, Thomas Funkhouser. 3DV 2017. 
 
+Reviewer for ICLR, NeurIPS, AAAI, IJCV, ECCV.
 
 ### Project Samples
 * [GPT Index](https://github.com/jerryjliu/gpt_index). Data structures that are created by / used by GPT-3 in order to traverse external data.
