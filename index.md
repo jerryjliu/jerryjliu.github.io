@@ -2,13 +2,16 @@
 layout: default
 ---
 
-I recently joined Robust Intelligence as an ML Eng Manager! Working with brilliant researchers/engineers to help secure AI as its usage explodes around the world. Shoot me an email if you're interested! 
+ML Eng Manager at Robust Intelligence, leading our efforts around model monitoring and AI Firewall. Author of [GPT Index](https://github.com/jerryjliu/gpt_index). 
 
-Previously, I was a Research Scientist at Uber ATG, working on advancing state-of-the-art for learning-based compression as well as joint prediction/planning. I'm broadly interested in generative models, IL/RL, as well as practical applications derived from the latest research. Before that I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
+I'm broadly interested in generative models (including LLM's), AI for systems, systems for AI. I also follow the startup community and am interested in understanding AI products and emerging growth opportunities: MLOps, vertical LLM's, horizontal platforms (Databricks, Scale AI, etc.), and more.
 
-I also follow the startup community and am interested in understanding products and emerging growth opportunities in b2b, MLOps, and hard-tech robotics. I enjoy reading ML papers, reading non-ML books, eating spicy food, and playing a variety of social games.  
+Previously, I was a Research Scientist at Uber ATG, working on advancing state-of-the-art for learning-based compression as well as joint prediction/planning.  Before that I was a machine learning engineer at Quora, where I worked on the feed ranking system. I graduated *summa cum laude* from Princeton in '17 with a B.S.E in CS and certificate in finance. 
+
+I enjoy reading ML papers, reading non-ML books, eating spicy food, playing tennis, and playing games.
 
 ## Publications / Projects
+* [**Deep Structured Reactive Planning**](https://arxiv.org/abs/2101.06832). *Jerry Liu*, Wenyuan Zeng, Raquel Urtasun, Ersin Yumer. ICRA 2021.
 * [**MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**](https://arxiv.org/abs/2008.09180). Sourav Biswas, *Jerry Liu*, Kelvin Wong, Shenlong Wang, Raquel Urtasun. NeurIPS 2020. 
 * [**Conditional Entropy Coding for Efficient Video Compression**](https://arxiv.org/abs/2008.09180). *Jerry Liu*, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun. ECCV 2020. 
 * [**OctSqueeze: Octree-structured Entropy Model for LiDAR Compression**](https://arxiv.org/abs/2005.07178). Lila Huang, Shenlong Wang, Kelvin Wong, *Jerry Liu*, Raquel Urtasun. CVPR 2020, Oral. 
@@ -17,17 +20,17 @@ I also follow the startup community and am interested in understanding products 
 
 
 ### Project Samples
+* [GPT Index](https://github.com/jerryjliu/gpt_index). Data structures that are created by / used by GPT-3 in order to traverse external data.
 * [Star Wars Boids](https://jerryjliu.github.io/star_wars_boids/). Class project with [Kevin Wang](https://www.linkedin.com/in/suyang-kevin-wang-62459990/), extend Boid behavior to an adversarial setting and made everything Star Wars. 
 * [Force Split PR on Microsoft LightGBM](https://github.com/Microsoft/LightGBM/pull/1310). Added ability to force decision tree splits.
 * A bunch of hackathon projects back in the day. 
 
 
-## Resume
+## Contact
 
-You can access my resume [here](/assets/other/jerry_resume.pdf). My LinkedIn, Twitter, Github can be accessed from the left. 
+My LinkedIn, Twitter, Github can be accessed from the left. 
 My Google Scholar is [here](https://scholar.google.com/citations?user=8JjemawAAAAJ&hl=en). I'm not currently active on Quora but you can read some of my older answers [here](https://www.quora.com/profile/Jerry-Liu-10).
 
-Also follow me on Clubhouse (**@jerryl**)! 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
